@@ -30,31 +30,12 @@ yarn
 docker-compose up -d
 ```
 
-3. Start the Node.js application:
-
-```
-yarn start
-```
-
 The API will be running at `http://localhost:3000`.
-
-## API Documentation
 
 ### Base URL
 
-`http://localhost:3000/api`
+`http://localhost:3000/`
 
-### Endpoints
-
-Open the [HTML Docs](/apiary.html) on your browser.
-
-## Running Tests
-
-To run the unit tests, use the following command:
-
-```
-yarn test
-```
 
 ## Contributing
 
